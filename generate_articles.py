@@ -1,1 +1,1 @@
-YOUTUBE_API_KEY = AIzaSyApOCCuZ-_k8rle-8q7NIeeRox5uc8uzCw
+YOUTUBE_API_KEY = 
